@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colors - Dynamic Blue -->
+    <color name="primary">#006495</color>
+    <color name="primary_dark">#004970</color>
+    <color name="primary_light">#4fa3d0</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#C8E6FF</color>
+    <color name="on_primary_container">#001E2E</color>
+
+    <!-- Secondary colors - Teal Accent -->
+    <color name="secondary">#006874</color>
+    <color name="secondary_dark">#004954</color>
+    <color name="secondary_light">#4899A4</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="secondary_container">#9DF0FF</color>
+    <color name="on_secondary_container">#001F24</color>
+
+    <!-- Tertiary colors - Purple Accent -->
+    <color name="tertiary">#8C4DA8</color>
+    <color name="tertiary_dark">#682D82</color>
+    <color name="tertiary_light">#BE8BDA</color>
+    <color name="on_tertiary">#FFFFFF</color>
+    <color name="tertiary_container">#F8D9FF</color>
+    <color name="on_tertiary_container">#37004D</color>
+
+    <!-- Surface colors -->
+    <color name="surface">#F9F9F9</color>
+    <color name="surface_dark">#F0F0F0</color>
+    <color name="on_surface">#1A1A1A</color>
+    <color name="surface_variant">#E1E2E5</color>
+    <color name="on_surface_variant">#44474E</color>
+
+    <!-- Background -->
+    <color name="background">#FFFFFF</color>
+    <color name="on_background">#1A1A1A</color>
+
+    <!-- Error colors -->
+    <color name="error">#BA1A1A</color>
+    <color name="error_dark">#920000</color>
+    <color name="error_light">#FFB4AB</color>
+    <color name="on_error">#FFFFFF</color>
+    <color name="error_container">#FFDAD6</color>
+    <color name="on_error_container">#410002</color>
+
+    <!-- Success colors -->
+    <color name="success">#1E7B4C</color>
+    <color name="success_dark">#0B5A34</color>
+    <color name="success_light">#5CBF8A</color>
+    <color name="on_success">#FFFFFF</color>
+    <color name="success_container">#B9F6D0</color>
+    <color name="on_success_container">#002111</color>
+
+    <!-- Status colors -->
+    <color name="status_ok">#1E7B4C</color>
+    <color name="status_failed">#BA1A1A</color>
+    <color name="status_unknown">#8C8C8C</color>
+    <color name="status_warning">#B75F0F</color>
+
+    <!-- Card colors -->
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_elevation_1">#E5E5E5</color>
+    <color name="card_elevation_2">#DBDBDB</color>
+
+    <!-- Gradient colors -->
+    <color name="gradient_start">#006495</color>
+    <color name="gradient_end">#4FA3D0</color>
+    <color name="gradient_accent_start">#8C4DA8</color>
+    <color name="gradient_accent_end">#BE8BDA</color>
+
+
+    <!-- Switch colors -->
+    <color name="switch_active">#1E7B4C</color>
+    <color name="switch_inactive">#BA1A1A</color>
+
+    <!-- Switch thumb colors -->
+    <color name="switch_thumb_active">#1E7B4C</color>      <!-- Green when ON -->
+    <color name="switch_thumb_inactive">#BA1A1A</color>    <!-- Red when OFF -->
+
+    <!-- Switch track colors (lighter versions for background) -->
+    <color name="switch_track_active">#8BC34A</color>      <!-- Light green track when ON -->
+    <color name="switch_track_inactive">#FF8A80</color>    <!-- Light red track when OFF -->
+
+    <!-- Alternative: Semi-transparent versions of thumb colors -->
+    <color name="switch_track_active_alt">#4C1E7B4C</color> <!-- Green with 30% opacity -->
+    <color name="switch_track_inactive_alt">#4CBA1A1A</color> <!-- Red with 30% opacity -->
+
+    <!-- Tab text color -->
+    <color name="tab_selected">#FFFFFF</color>  <!-- White for selected text -->
+    <color name="tab_unselected">#80FFFFFF</color>  <!-- Semi-transparent white for unselected -->
+    <color name="tab_indicator">#FFFFFF</color>  <!-- White indicator line -->
+
+</resources>
